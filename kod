@@ -1,8 +1,12 @@
-//RPG
 #include <iostream>
 using namespace std;
+
+class enemy
+{
+	int Zdrowie{}, Siła{}, Szybkość{};
+};
+
 int main()
 {
-	cout << "Hello World!\n";
-	Hej
+	
 }
